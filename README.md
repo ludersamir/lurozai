@@ -45,9 +45,6 @@ LurozAI is an advanced, unfiltered AI platform designed for open-ended research 
 - HTML/CSS/JavaScript knowledge for customizations.
 - **Optional**: Tor Browser for accessing deep web links provided by the AI.
 
-### Installation
+### Beta Version
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/lurozai.git
-   cd lurozai
+Sign up for the Early Access on our website: https://www.luroz.netlify.app
